@@ -4,7 +4,7 @@
 
 ## 开始编写！
 
-以 [ebook_simple.html](https://github.com/Dobby233Liu/eBook/blob/gh-pages/ebook_simple.html) 为模板，并按照说明修改，你的现成品就出来了。
+以 [ebook_simple.html](https://github.com/Dobby233Liu/eBook/blob/gh-pages/ebook_simple.html) 为模板，并按照说明修改，然后与vaild-html-unknown.png一起拷贝到服务器，你的现成品就出来了。
 
 ## 例子
 
