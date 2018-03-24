@@ -12,6 +12,8 @@
 
 [少年闰土](snrt.html) (其实我原来是在这个文件里写出eBook的)
 
+[简约博客](archives/index.html)
+
 # 版权
 
 少年闰土：按中国法律制定。
